@@ -15,7 +15,7 @@ from utils import Cal_Spatial_Net, Stats_Spatial_Net, mclust_R, Cal_Gene_Similar
 os.environ['R_HOME'] = r'C:\Program Files\R\R-4.4.1'    # 'D:\Program Files\R\R-4.0.3'
 os.environ['R_USER'] = r'C:\Users\XiaoXiongtao\anaconda3\Lib\site-packages\rpy2'
 
-seed = 2020
+seed = 151676
 section_id = '151675'  # 151507 - 151510 & 151669 - 151676
 data_root = 'D:\datasets\spatial_transcriptomics\DLPFC'
 
